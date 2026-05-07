@@ -21,7 +21,7 @@ const Header = () => {
     }
   };
 
-  const BUY_URL = 'https://pump.fun/coin/abcdpump';
+  const BUY_URL = 'https://pump.fun/coin/ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump';
   const X_URL = 'https://x.com/i/communities/2039105098056372560';
   const TELEGRAM_URL = 'https://t.me/uncscamsol';
 

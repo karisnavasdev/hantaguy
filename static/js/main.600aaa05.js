@@ -12882,7 +12882,7 @@
           const n = document.getElementById(e);
           n && (n.scrollIntoView({ behavior: "smooth" }), t(!1));
         },
-        o = "https://pump.fun/coin/abcdpump",
+        o = "https://pump.fun/coin/ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump",
         i = "https://x.com/hantaguy_";
       return (0, p.jsx)("header", {
         className: "fixed top-0 left-0 right-0 z-50 pt-4 md:pt-6 lg:pt-8",
@@ -13016,7 +13016,7 @@
                           ],
                         }),
                         (0, p.jsx)("a", {
-                          href: "https://t.me/abcdpump",
+                          href: "https://t.me/ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           "aria-label": "Telegram",
@@ -13310,7 +13310,7 @@
     ]),
     S = () => {
       const [e, t] = (0, r.useState)(!1),
-        n = "abcdpump",
+        n = "ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump",
         l = [
           {
             icon: v,
@@ -13450,7 +13450,7 @@
                     (0, p.jsx)("div", {
                       className: "mt-8",
                       children: (0, p.jsx)("a", {
-                        href: "https://pump.fun/coin/abcdpump",
+                        href: "https://pump.fun/coin/ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className:

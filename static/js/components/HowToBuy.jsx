@@ -4,8 +4,8 @@ import { useState } from 'react';
 
 const HowToBuy = () => {
   const [copied, setCopied] = useState(false);
-  const contractAddress = 'abcdpump';
-  const BUY_URL = 'https://pump.fun/coin/abcdpump';
+  const contractAddress = 'ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump';
+  const BUY_URL = 'https://pump.fun/coin/ETJyRyneEbzZQHpv9mtPHxnTBBC4JwSCC6eGCamBpump';
 
   const handleCopy = () => {
     navigator.clipboard.writeText(contractAddress);
